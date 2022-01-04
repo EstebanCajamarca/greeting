@@ -1,6 +1,6 @@
 # Author: Esteban Cajamarca
 # GitHub username: EstebanCajamarca
-# Date: 1/3/22/2022
+# Date: 1/3/2022
 # Description: Asks the user for their favorite animal and then
 #              prints out that that is their favorite animal
 
